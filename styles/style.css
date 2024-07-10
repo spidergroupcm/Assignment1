@@ -431,6 +431,31 @@ border-radius: 8px;
 
 /* Main Section CSS End */
 
+/* Footer Design Start */
+.footer {
+    width: 1440px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 150px 32px 150px;
+    }
+    
+    
+    
+.footer-image-container {
+    display: flex;
+    justify-self: auto;
+       
+    }
+    
+.box {
+    margin-right: 15px;
+    }
+    
+    
+    
+/* Footer Design End */
+
 
 
 
