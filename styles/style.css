@@ -9,6 +9,83 @@ body {
     font-family: "Azeret Mono", monospace;
 }
 
+/* Banner Section Design Start */
+
+
+.banner-section-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../assets/Hero-bg.png);
+    margin-bottom: 80px;
+}
+
+.banner-content-container {
+    width: 1440px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 26px 221px 44px 221px;
+}
+
+img {
+    margin-bottom: 32px;
+}
+
+.banner-content-container .banner-title {
+color: rgb(13, 19, 33);
+
+font-size: 35px;
+font-weight: 800;
+align-items: center;
+
+}
+
+.banner-content-container .banner-title2 {
+font-size: 35px;
+font-weight: 800;
+align-items: center;
+margin-bottom: 24px;
+}
+
+.banner-title-description1 {
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+}
+
+.banner-title-description2 {
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+margin-bottom: 32px;
+}
+
+.contact-button {
+
+color: rgb(243, 240, 240);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+padding: 21px 24px 21px 24px;
+border-radius: 8px;
+background: rgb(13, 19, 33);
+}
+
+
+/* Banner Section Design End */
+
+
+
+
 
 
 
